@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pinvoice_5324.wsgi:application
